@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).AssemblyInfo.cs
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\bin\Debug\net7.0\ConsoleApp(Tutorials).exe
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\bin\Debug\net7.0\ConsoleApp(Tutorials).deps.json
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\bin\Debug\net7.0\ConsoleApp(Tutorials).runtimeconfig.json
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\bin\Debug\net7.0\ConsoleApp(Tutorials).dll
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\bin\Debug\net7.0\ConsoleApp(Tutorials).pdb
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).dll
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\refint\ConsoleApp(Tutorials).dll
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).pdb
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ConsoleApp(Tutorials).genruntimeconfig.cache
+C:\Users\HP\source\repos\ConsoleApp(Tutorials)\ConsoleApp(Tutorials)\obj\Debug\net7.0\ref\ConsoleApp(Tutorials).dll

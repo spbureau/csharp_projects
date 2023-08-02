@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\bin\Debug\net7.0\OperationsApp.exe
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\bin\Debug\net7.0\OperationsApp.deps.json
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\bin\Debug\net7.0\OperationsApp.runtimeconfig.json
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\bin\Debug\net7.0\OperationsApp.dll
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\bin\Debug\net7.0\OperationsApp.pdb
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.dll
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\refint\OperationsApp.dll
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.pdb
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\OperationsApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\OperationsApp\OperationsApp\obj\Debug\net7.0\ref\OperationsApp.dll

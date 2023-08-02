@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\bin\Debug\net7.0\ToturialsApp.exe
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\bin\Debug\net7.0\ToturialsApp.deps.json
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\bin\Debug\net7.0\ToturialsApp.runtimeconfig.json
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\bin\Debug\net7.0\ToturialsApp.dll
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\bin\Debug\net7.0\ToturialsApp.pdb
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.AssemblyInfo.cs
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.dll
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\refint\ToturialsApp.dll
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.pdb
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ToturialsApp.genruntimeconfig.cache
+C:\Users\HP\source\repos\ToturialsApp\ToturialsApp\obj\Debug\net7.0\ref\ToturialsApp.dll
